@@ -1,0 +1,231 @@
+.body {
+    font-family: "Inter",
+    sans-serif;
+    color: #232536;
+}
+
+.bg-header {
+    background-color: #232536;
+}
+
+.links {
+  font-size: 16px;
+  font-weight: 400;
+  color: white;
+}
+
+.myBtn {
+   font-size: 20px;
+   font-weight: 700;
+   background-color: white;
+   color: #232536;
+   padding: 9px 40px 9px 40px;
+   border-radius: 3px;
+}
+
+.bg-light::placeholder {
+    padding-left: 15px;
+}
+
+.myBtn:hover {
+    background-color: gainsboro;
+}
+
+.myBtn:active {
+    box-shadow: 4px 4px 4px #000;
+}
+
+.linkButton {
+    font-size: 37px;
+    height: 52px;
+    width: 10%;
+    border-color: white;
+}
+
+.myIcon {
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.myImage {
+    background-image: url(../img/main-pic.png);
+    background-repeat: no-repeat;
+    height: 800px;
+    background-size: 100% 100%;
+}
+
+.mainToppic {
+  font-size: 56px;
+  color: white;
+  font-weight: 700;
+  width: 70%;
+}
+
+.mainToppicText {
+   font-size: 20px;
+   color: white;
+   font-weight: 400;
+   width: 46%;
+}
+
+.myLink {
+  font-size: 20px;
+  font-weight: 700;
+  background-color: #FFD050;
+  text-decoration: none;
+  padding: 14px 60px 14px 60px;
+}
+
+.myLink:hover {
+    background-color: darkgoldenrod;
+}
+
+.myLink:active {
+    box-shadow: 4px 4px 4px #000;
+}
+
+.myLink2 {
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #FFD050;
+    padding: 10px 66px 10px 66px;
+}
+
+.toppics {
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.myBg {
+    background-color: #F5F3F3;
+}
+
+.FeaturedPostBoldText {
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.FeaturedPostText {
+   font-size: 16px;
+   font-weight: 400;
+   width: 78%;
+}
+
+.myCard-title {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.cardImage1::before {
+    background-image: url(../img/ic-business.png);
+}
+
+.cardImage2::before {
+    background-image: url(../img/ic-economy.png);
+}
+
+.cardImage3::before {
+    background-image: url(../img/ic-startup.png);
+}
+
+.cardImage4::before {
+    background-image: url(../img/ic-technology.png);
+}
+
+.myCard-text {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.myCard::before {
+    content: "";
+    height: 87px;
+    width: 80px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 18px auto 0;
+}
+
+.card {
+    width: 96%;
+}
+
+.my2Toppic {
+   font-size: 44px;
+   font-weight: 700;
+}
+
+.myCardToppic2 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.card-body h5 {
+    padding-top: 14px;
+}
+
+.myCard-text2 {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.myLink2 {
+   font-size: 20px;
+   font-weight: 700;
+   background-color: #FFD050;
+}
+
+.card-footer {
+    background-color:#F5F3F3
+}
+
+.footerText {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.7);
+    line-height: 27px;
+}
+
+.footerBg {
+    background-color: #232536;
+}
+
+.footerIcons::before {
+    content: "";
+    border: 3px solid white;
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.firstIcon::before {
+    background-image: url(../img/in.png);
+}
+
+.secondIcon::before {
+    background-image: url(../img/insta.png);
+}
+
+.thirdIcon::before {
+    background-image: url(../img/tw.png);
+}
+
+.fourIcon::before {
+    background-image: url(../img/fb.png);
+}
+
+.imageDesign {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+ 
+
